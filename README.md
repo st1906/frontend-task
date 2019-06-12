@@ -1,3 +1,26 @@
+# Task
+
+Create a new project using create-react-app.
+
+Create a git repository and push the initial commit without your changes.
+
+You can run it with npm start.
+
+Replace p tag with a new component.
+
+Component specification:
+
+on startup you should get and store 2 random colors from GET http://www.colr.org/json/color/random
+clicking the component should toggle the color between black and 1 random color out of the 2 stored random colors
+Add a text input on the page. Changing the text on the input should change the text on the component above.
+
+No requirements regarding implementation.
+Feel free to add dependencies.
+Can use fetch for the API call for random color.
+Bonus for tests.
+Push your changes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
