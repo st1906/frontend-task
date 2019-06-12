@@ -1,0 +1,20 @@
+.display-box{
+    border-radius: 8px;
+    height: 12rem;
+    max-width: 24rem;
+    padding: 1rem;
+    word-break: break-all; 
+    word-wrap: break-word; 
+}
+.display-text{
+    color : white;
+}
+
+.input-text{
+    padding: 0.5rem 1rem;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.input-text:focus{
+    outline: none;
+}
